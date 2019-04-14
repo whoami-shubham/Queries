@@ -1,0 +1,2 @@
+# Queries
+[Frequently asked Questions]()
