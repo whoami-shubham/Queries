@@ -19,3 +19,11 @@ h1{
 body{
     font-family: 'Source Code Pro', monospace;
 }
+@media (max-width: 992px){
+    h1{
+      font-size: 20px;
+    }
+    .accordion,.btn-link{
+        font-size: 10px !important;
+    }
+}
