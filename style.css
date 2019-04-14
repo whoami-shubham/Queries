@@ -1,0 +1,21 @@
+.card-header{
+    background: white !important;
+    
+}
+
+
+.btn-link{
+    text-decoration: none !important;
+    font-weight: bold;
+    color:black;
+    font-size: medium;
+}
+h1{
+    color:#1967d2;
+}
+/* btn-link:hover {
+    color:black;
+} */
+body{
+    font-family: 'Source Code Pro', monospace;
+}
