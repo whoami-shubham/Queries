@@ -1,2 +1,2 @@
 # Queries
-[Frequently asked Questions]()
+[Frequently asked Questions](https://whoami-shubham.github.io/Queries/)
